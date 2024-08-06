@@ -1,0 +1,137 @@
+/* START cardinsta.js ini adalah pengaturannya */
+.filterCardWrapper {
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+
+.textFilterInsta {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+.imgCardFilterInsta img{
+    width: 90%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    
+}
+.imgCardFilterInsta{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+/* STOP cardinsta.js ini adalah pengaturannya */
+
+.bungkusHR{
+    margin-top: -20px;
+    display: flex;
+    justify-content: center;
+}
+
+.bungkusHR hr{
+    max-width: 1180px;
+}
+
+
+.centeringContenFilterInsta {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.jufulfilterfooter h1{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.FilterFooter{
+    background: linear-gradient(180deg, rgba(199,157,91,1) 0%, rgba(187,143,105,1) 38%, rgba(190,102,0,1) 100%);
+}
+
+.cardFooterFilterWrapper{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    gap:20px;
+    padding-bottom: 40px;
+    
+    
+}
+.cardFooterFilter{
+    background-color: white;
+    width: 90%;
+    height: 130px;
+    justify-self: center;
+    border-radius: 15px 15px 15px 80px;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cardFooterFilter img {
+    width: 50px;
+}
+
+@media (min-width: 1024px){
+    /* .centeringContenFilterInsta {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    } */
+
+    .menu-container {
+        width: 1180px;
+
+    }
+
+    .jufulfilterfooter h1{
+        padding-top: 40px;
+        display: flex;
+        justify-content: center;
+        font-size: 60px;
+    }
+    
+    .FilterFooter{
+        background: linear-gradient(180deg, rgba(199,157,91,1) 0%, rgba(187,143,105,1) 38%, rgba(190,102,0,1) 100%);
+    }
+    
+    .cardFooterFilterWrapper{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        gap:20px;
+        padding-bottom: 40px;
+        padding-left: 40px;
+        padding-right: 40px;
+        
+        
+    }
+    .cardFooterFilter{
+        margin-top: 40px;
+        background-color: white;
+        width: 15%;
+        height: 180px;
+        justify-self: center;
+        border-radius: 15px 15px 15px 80px;
+        align-content: center;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    .cardFooterFilter img {
+        width: 50px;
+    }
+}

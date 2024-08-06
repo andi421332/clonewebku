@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(252, 242, 237);
+  margin: 0; /* Menghapus margin default */
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1{
+  font-family: "Nunito Sans", sans-serif;
+  font-optical-sizing: auto;
+  color: white;
+  font-weight: 900;
+  font-size: 2rem;
+  font-style: normal;
+  line-height: 1.2;
+  font-variation-settings:
+    "wdth" 400,
+    "YTLC" 500;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

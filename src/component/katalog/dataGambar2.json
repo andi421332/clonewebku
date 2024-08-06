@@ -1,0 +1,24 @@
+{
+    "menu": [
+        {
+            "nama": "3d-motion_57",
+            "alamat": "../imageGroup/katalog/3d-motion/3d-motion_57.jpg"
+        },
+        {
+            "nama": "3d-motion_58",
+            "alamat": "../imageGroup/katalog/3d-motion/3d-motion_58.jpg"
+        },{
+            "nama": "3d-motion_59",
+            "alamat": "../imageGroup/katalog/3d-motion/3d-motion_59.jpg"
+        },{
+            "nama": "3d-motion_60",
+            "alamat": "../imageGroup/katalog/3d-motion/3d-motion_60.jpg"
+        },{
+            "nama": "3d-motion_63",
+            "alamat": "../imageGroup/katalog/3d-motion/3d-motion_63.jpg"
+        },{
+            "nama": "3d-motion_64",
+            "alamat": "../imageGroup/katalog/3d-motion/3d-motion_64.jpg"
+        }
+    ]
+}

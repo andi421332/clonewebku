@@ -1,0 +1,21 @@
+{
+    "menu": [
+        {
+            "nama": "3d-motion_57",
+            "alamat": "../imageGroup/katalog/simple/simple_02.jpg"
+        },
+        {
+            "nama": "3d-motion_58",
+            "alamat": "../imageGroup/katalog/simple/simple_03.jpg"
+        },{
+            "nama": "3d-motion_59",
+            "alamat": "../imageGroup/katalog/simple/simple_04.jpg"
+        },{
+            "nama": "3d-motion_60",
+            "alamat": "../imageGroup/katalog/simple/simple_05.jpg"
+        },{
+            "nama": "3d-motion_63",
+            "alamat": "../imageGroup/katalog/simple/simple_07.jpg"
+        }
+    ]
+}
