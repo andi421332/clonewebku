@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.a48c49fc.css",
-    "main.js": "./static/js/main.4b2ca812.js",
+    "main.js": "./static/js/main.e689c634.js",
     "static/js/453.ef63a1f5.chunk.js": "./static/js/453.ef63a1f5.chunk.js",
     "static/media/DESIGN-PHONE-2.jpg": "./static/media/DESIGN-PHONE-2.5ca31a5c437d5be98f4d.jpg",
     "static/media/TEMA-32-PAPER-LAND-2.jpg": "./static/media/TEMA-32-PAPER-LAND-2.b84cae46cac63eff44b8.jpg",
@@ -19,11 +19,11 @@
     "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "./index.html",
     "main.a48c49fc.css.map": "./static/css/main.a48c49fc.css.map",
-    "main.4b2ca812.js.map": "./static/js/main.4b2ca812.js.map",
+    "main.e689c634.js.map": "./static/js/main.e689c634.js.map",
     "453.ef63a1f5.chunk.js.map": "./static/js/453.ef63a1f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a48c49fc.css",
-    "static/js/main.4b2ca812.js"
+    "static/js/main.e689c634.js"
   ]
 }
